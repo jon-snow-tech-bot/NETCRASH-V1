@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/jon-snow-tech-bot">
+  <a href="https://github.com/jon-snow-tech-bot/NETCRASH-V1">
     <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=net-crash-v1+MultiDevice;Developed+by+JON-SNOW;Give+star+and+fork+this+Repo+bro+🌟" alt="JON Readme Typing" />
   </a>
 </p>
