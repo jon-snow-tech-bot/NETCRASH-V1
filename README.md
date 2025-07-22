@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  <img src="https://files.catbox.moe/fuoqii.png" alt="Banner Image" width="600" />
+  <img src="https://files.catbox.moe/lcnx78.jpg" alt="Banner Image" width="600" />
 </p>
 
 <p align="center">
