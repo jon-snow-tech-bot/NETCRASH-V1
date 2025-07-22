@@ -1,4 +1,4 @@
-// re code by dawens boy
+// re code by jon tech
 
 const { cmd } = require('../command');
 const config = require("../config");
